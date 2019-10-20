@@ -5,9 +5,20 @@ date: "20/10/2019"
 output: html_document
 ---
 
+## Data
+
+The "raw" data for this assignment are available for [download here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+
+## Files
+
+**CodeBook.md**  
+Describes the variables, data and transformations needed to clean up the dataset.
+
+**run_analysis.R**  
+The R-script that contains all of the steps necessary to get a tidy dataset from the provided "raw" data.
 
 
-## Getting and Cleaning Data
+## Course Project
 
 #### Loading training data
 Read the training data from the dataset.
